@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="weight">Weight(in Kg)</string>
+    <string name="height">Height(in cm)</string>
+    <string name="calculateBMI">Calculate BMI</string>
+    <string name="very_severely_underweight" />
+    <string name="severely_underweight" />
+    <string name="underweight" />
+    <string name="normal" />
+    <string name="overweight" />
+    <string name="obese_class_i" />
+    <string name="obese_class_ii" />
+    <string name="obese_class_iii" />
+    <string name="bmi_calculator_app">BMI CALCULATOR APP</string>
+</resources>
